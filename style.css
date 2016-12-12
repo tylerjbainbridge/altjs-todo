@@ -1,0 +1,31 @@
+.form-style {
+  padding-top: 50px;
+}
+
+.form-style form {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+  display: block;
+}
+
+.form-style h2 {
+  text-align: center;
+}
+.form-style button {
+  margin-top: 10px;
+}
+
+.todo-list ul {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.todo-list h2 {
+  text-align: center;
+}
+
+.todo-list li {
+  margin: 0 auto;
+}
